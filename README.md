@@ -1,6 +1,6 @@
 # pydata-posts-manager
 
-TODO: add description
+PyData Venice User Group is a meetup community for anyone interested in Data Science - at all levels, from complete beginners to seasoned professionals - dedicated to promoting throughout the Veneto region.
 
 ## Prerequisites
 
