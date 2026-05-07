@@ -1,3 +1,4 @@
+# Calls the reusable workflow from bilardi/github-actions-publish to publish posts.
 name: Publish posts
 on:
   workflow_dispatch:
