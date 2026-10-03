@@ -1,7 +1,7 @@
 ---
 date: 2026-10-03
 images:
-  - https://drive.google.com/file/d/15FjZXMzJU1RlXHGf1TSvD3herbZnk5wb/view
+  - https://drive.google.com/file/d/1akD_G6np39DoVDA30jo0aGtCa0h-l1IX/view
 url: https://www.meetup.com/pydata-venice/events/312820129/
 tags: ["28 #Meetup PyData - #DataSins & #MultiArmedBandits"]
 ---
