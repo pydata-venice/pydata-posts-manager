@@ -1,5 +1,5 @@
 ---
-date: 2026-11-23
+date: 2026-11-24
 images:
   - https://drive.google.com/file/d/11MNbShgy7yzRwqwB4FL73pb_27bi69gh/view
 url: https://www.meetup.com/it-it/pydata-venice/events/312820146/
